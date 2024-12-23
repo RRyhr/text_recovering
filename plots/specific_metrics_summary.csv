@@ -1,0 +1,5 @@
+Model,Avg Training Time per Epoch (s),Avg Memory Usage (MB),Final Accuracy,Final F1-Score
+ruBERT,4694.57,12.0,0.7824,0.8174
+Multilingual BERT,3462.94,14.0,0.7281,0.7105
+DistilBERT,1625.7,6.0,0.675,0.6307
+RoBERTa (ru),4608.34,16.0,0.8095,0.8685
